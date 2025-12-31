@@ -1,106 +1,70 @@
+# 👋 Hi, I'm Victor Tavares
 
-# Victor Hugo Soares Tavares
-Engenheiro da Computação
+**Python Backend Developer | Automation & Data Integration | Remote Contractor**
 
-📍 Sorocaba – SP  
-📞 (15) 9.9811-5496  
-✉️ vhstavares@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/victor-hugo-soares-tavares-642255160/)  
-💻 [GitHub](https://github.com/tavares51)
+I’m a software engineer with over 5 years of experience building backend systems, automations and data integrations for enterprise and regulated environments. My background includes public sector, energy and telecommunications projects, working with scalable and reliable systems.
 
----
-## 🎯 Objetivo Profissional
-Busco novos desafios que possam complementar minha trajetória profissional e ampliar minhas competências técnicas e interpessoais. Sou apaixonado por tecnologia, e além do conhecimento técnico em Python, LLMs, automações e backend, tenho como diferencial minha capacidade de comunicação, colaboração em equipe e atitude proativa diante de problemas.
-
-Tenho facilidade em compartilhar conhecimento, gosto de ajudar colegas e acredito que trabalho em equipe é o principal pilar de projetos bem-sucedidos. Em situações de pressão, mantenho o foco, resolvo problemas com clareza e agilidade — e não hesito em pedir ajuda quando necessário.
-
-Estou pronto para contribuir com meu conhecimento técnico e humano em ambientes que valorizam inovação, aprendizado contínuo e colaboração.
-
-## 💼 Resumo Profissional
-
-Desenvolvedor Python **Pleno**, com sólida experiência em **Django**, **Flask**, **FastAPI** e integração com **LLMs (Large Language Models)**. Especialista na construção de soluções com **RAGs (Retrieval-Augmented Generation)**, **agentes personalizados com LangChain**, e automações inteligentes com **n8n**.  
-Atuei em **projetos de grande escala** para órgãos públicos e empresas estratégicas, incluindo:
-
-- **DETRAN-SP**: desenvolvimento de soluções de fiscalização, gestão de pátios e desmontes usando IBM Maximo, relatórios automatizados e APIs internas;
-- **Eletronuclear de Angra dos Reis**: implementação de automações para controle de ativos e relatórios operacionais de usinas.
-
-Atualmente lidero o desenvolvimento de um **CRM em .NET e React** e dois projetos com foco em **IA generativa e chatbot via WhatsApp** para uma empresa privada.  
-🏆 Campeão do **HackTown 2023 (UTFPR)** com solução de IA aplicada à educação.
+I specialize in Python-based solutions, system integrations and process automation, helping companies improve efficiency and operational visibility.
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🛠️ Core Skills
 
-- **Linguagens:** Python, Java, JavaScript, R, C#, SQL  
-- **Frameworks:** Django, Flask, FastAPI, .NET, Django Rest Framework  
-- **Front-end:** React.js, HTML, Tailwind, Flutter  
-- **LLMs e IA:** OpenAI (GPT-4o), LangChain, Agentes, Tools, RAG  
-- **Automação & Dados:** Pandas, NumPy, Selenium, Power BI, ETL, Spark  
-- **Cloud & DevOps:** AWS, Google Cloud, Docker  
-- **Bancos de Dados:** PostgreSQL, MySQL, SQLite  
-- **Outros:** n8n, IBM Maximo, Git, REST APIs
-
----
-
-## 🏆 Reconhecimentos
-
-- 🥇 **Campeão HackTown 2023 – UTFPR**  
-  Solução com IA generativa para democratização da educação usando LLMs e embeddings.
+- Python (Backend, Automation, Data Processing)
+- APIs & Integrations (FastAPI, Flask, Django)
+- Automation & ETL (Pandas, NumPy, Selenium, RPA)
+- Databases & SQL (PostgreSQL, MySQL, SQL Server – transferable)
+- Backend Development (.NET, REST APIs)
+- Cloud & DevOps (Docker, AWS, Google Cloud)
+- Data & Analytics (Power BI, operational dashboards)
+- Enterprise Systems (IBM Maximo)
 
 ---
 
-## 🏢 Experiência Profissional
+## 📌 What I Do
 
-**Desenvolvedor Python – Almaviva Solutions**  
-*2021 – Atual*  
-- Desenvolvimento backend e automação para IBM Maximo (DETRAN-SP, Eletro Nuclear).  
-- Criação de APIs, relatórios BIRT e automações com Python, Java e JavaScript.
-
-**Desenvolvedor de Automação – Facens (Projeto Huawei)**  
-*2018 – 2021*  
-- Desenvolvimento de ETLs e dashboards Power BI.  
-- Criação de automações com Selenium e análise de dados em tempo real.
+- Backend development and API design  
+- Business process automation  
+- Data ingestion and transformation pipelines  
+- System-to-system integrations  
+- Internal tools and operational dashboards  
+- Enterprise and mission-critical systems  
 
 ---
 
-## 🚀 Projetos Relevantes
+## 💼 Professional Background
 
-**CRM Interno para Empresa de Marketing Digital – Em andamento (2025)**  
-Desenvolvimento de um sistema completo de CRM para gestão de leads e campanhas da agência *Alive Marketing* (Sorocaba/SP), utilizando **.NET no backend** e **React no frontend**.
+- **IBM Maximo Consultant / Backend Developer**  
+  Worked on large-scale projects such as DETRAN-SP and Eletronuclear, delivering asset management, maintenance automation and real-time operational indicators.
 
-**Chatbot WhatsApp com n8n + Python – Em andamento (2025)**  
-Projeto de automação de atendimento para WhatsApp com **n8n** e **OpenAI**, incluindo extração de dados, classificação de mensagens e integração com ferramentas internas da empresa.
-API inteligente com **LangChain + GPT-4o**, capaz de analisar documentos (PDF, CSV, Word, imagens) e gerar respostas, gráficos e insights de forma automatizada com ferramentas IA.
+- **Lead Backend Developer (CRM)**  
+  Led the development of a CRM platform using .NET, PostgreSQL and React, integrating cloud services and defining backend architecture.
 
-**Projeto DETRAN-SP (2021 – 2023)**  
-Desenvolvimento de soluções de gestão para as frentes de **fiscalização, pátios e desmontes** no sistema IBM Maximo. Automatização de relatórios BIRT, criação de indicadores operacionais e melhorias em processos internos.
-
-**Projeto Eletronuclear – Angra dos Reis (2023 – Atual)**  
-Participação ativa no projeto da usina nuclear em Angra, desenvolvendo automações e módulos para o sistema IBM Maximo. Destaque para o desenvolvimento de um **módulo estratégico apresentado como case internacional**, voltado à gestão avançada de ativos e rastreabilidade operacional em ambiente crítico.
-
-**Projeto Huawei – Facens (2019 – 2021)**  
-Automação de fluxos logísticos internos com Python e dashboards em Power BI. Desenvolvimento de scripts para ETL e visualizações para a equipe P&DC.
+- **Automation & Data Developer (Huawei Project)**  
+  Built ETL pipelines, dashboards and Python automations to support engineering and operational teams.
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🌍 Open to Opportunities
 
-**Engenharia da Computação – Facens**  
-*2017 – 2021*
-
-**Pós-Graduação em Ciência de Dados – Facens**  
-*2022 – 2024*
+I’m currently open to:
+- Remote contractor (PJ)
+- Freelance projects
+- Backend, automation or data integration roles
 
 ---
 
-## 🌐 Idiomas
+## 📫 Contact
 
-- **Inglês:** Intermediário (leitura técnica, comunicação escrita)
-- **Espanhol:** Intermediário (leitura técnica, comunicação escrita)
+- Email: vhstavares@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/victor-hugo-soares-tavares-642255160/  
+- Portfolio: https://victortavares.netlify.app  
+
 ---
 
-## 📎 Informações Adicionais
+## ⚡ Final Note
 
-- Disponível para trabalho remoto, híbrido ou presencial  
-- Portfólio ativo no GitHub com projetos backend, RAG e automação  
-- Interesse em oportunidades com foco em IA, APIs e automações inteligentes
+This GitHub showcases practical solutions focused on backend development, automation and system integration.  
+Each project reflects real-world scenarios and enterprise-oriented problem solving.
+
+Feel free to explore the repositories or reach out for collaboration.
