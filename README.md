@@ -62,6 +62,17 @@ I’m currently open to:
 
 ---
 
+## 🔹 Selected Client Projects
+
+- Inteligência Maná: https://inteligenciamana.com 
+- V4 Motos: https://v4motos.com.br 
+- Alive Marketing: https://www.alivemarketing.com.br 
+- EVP Pneus Sorocaba: https://evpneussorocaba.com.br 
+- GR Pro Benefícios: https://grprobeneficios.com.br 
+- Tríade Manutenção: https://triademanutencao.com.br
+
+---
+
 ## ⚡ Final Note
 
 This GitHub showcases practical solutions focused on backend development, automation and system integration.  
