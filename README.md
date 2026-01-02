@@ -10,11 +10,11 @@ I specialize in Python-based solutions, system integrations and process automati
 
 ## 🛠️ Core Skills
 
+- Backend Development (.NET, REST APIs)
 - Python (Backend, Automation, Data Processing)
 - APIs & Integrations (FastAPI, Flask, Django)
 - Automation & ETL (Pandas, NumPy, Selenium, RPA)
 - Databases & SQL (PostgreSQL, MySQL, SQL Server – transferable)
-- Backend Development (.NET, REST APIs)
 - Cloud & DevOps (Docker, AWS, Google Cloud)
 - Data & Analytics (Power BI, operational dashboards)
 - Enterprise Systems (IBM Maximo)
