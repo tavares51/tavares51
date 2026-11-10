@@ -10,7 +10,7 @@ My work combines backend engineering with a practical understanding of operation
 
 **Based in Brazil · Open to remote contract roles and freelance projects**
 
-[LinkedIn](https://www.linkedin.com/in/victor-hugo-soares-tavares-642255160/) · [Email](mailto:vhstavares@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/victor-hugo-soares-tavares-642255160/) · [Portfolio](https://v2alianca.com.br/quem-somos) · [Email](mailto:vhstavares@gmail.com)
 
 ---
 
@@ -106,4 +106,4 @@ I'm open to **remote contract roles, freelance projects and technical collaborat
 
 - **Email:** [vhstavares@gmail.com](mailto:vhstavares@gmail.com)
 - **LinkedIn:** [Victor Tavares](https://www.linkedin.com/in/victor-hugo-soares-tavares-642255160/)
-- **Portfolio:** [victortavares.netlify.app](https://victortavares.netlify.app)
+- **Portfolio:** [V2 Aliança](https://v2alianca.com.br/quem-somos)
